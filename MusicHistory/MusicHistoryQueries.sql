@@ -5,7 +5,7 @@
 --INSERT INTO Artist (ArtistName, YearEstablished) VALUES ('The Floozies', '2013')
 
 --Using the INSERT statement, add one, or more, albums by your artist to the Album table.
---INSERT INTO Album (Title, ReleaseDate, AlbumLength, [Label], ArtistId, GenreId) VALUES ('Dayglow Funk','4/17/2020','38','Funk Street Records',28,14)
+--INSERT INTO Album (Title, ReleaseDate, AlbumLength, [Label], ArtistId, GenreId) VALUES ('Dayglow Funk','4/17/2020','38','Funk Street Records',30,14)
 
 --Using the INSERT statement, add some songs that are on that album to the Song table.
 
